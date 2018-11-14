@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">UdpSend</string>
+    <string name="action_settings">Settings</string>
+</resources>
